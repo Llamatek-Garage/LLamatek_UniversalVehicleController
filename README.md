@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/LLamatek_Garage.png" width="100%" alt="LLamatek Garage">
+</p>
+
 # LLamatek Universal Vehicle Controller Integration
 
 Auto-setup integration for LLamatek vehicles with Universal Vehicle Controller.
