@@ -28,11 +28,9 @@ No manual component setup required. Just click **Setup Vehicle** and your vehicl
 6. Click **Setup Vehicle** to configure your vehicle.
 
 <br>
-<br>
 
 <p align="center">
   <img src="Images/SetupWindow.png" width="600" alt="LLamatek Universal Vehicle Controller Setup">
 </p>
 
-<br>
 <br>
