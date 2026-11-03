@@ -8,17 +8,17 @@ Automatically assigns the required components and configures your entire LLamate
 
 No manual component setup required. Just click **Setup Vehicle** and your vehicle is ready to drive! ❤️
 
-## Requirements
+### Requirements
 
 - Unity 2022.3
 - [Universal Vehicle Controller Plus](https://assetstore.unity.com/packages/tools/physics/universal-vehicle-controller-plus-176314)
 - A compatible LLamatek vehicle
 
-## Installation
+### Installation
 
 1. Import the `.unitypackage` into your Unity project.
 
-## Setup
+### Setup
 
 1. Open **LLamatek → UniversalVehicleController → Setup**.
 2. Drag your vehicle's Suspension GameObject into the Vehicle field.
