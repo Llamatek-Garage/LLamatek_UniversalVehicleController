@@ -2,11 +2,11 @@
 
 Auto-setup integration for LLamatek vehicles with Universal Vehicle Controller.
 
-What It Does
+## What It Does
 
 Automatically assigns the required components and configures your entire LLamatek vehicle to work with Universal Vehicle Controller.
 
-No manual component setup required. Just click Setup Vehicle and your vehicle is ready to drive! ❤️
+No manual component setup required. Just click **Setup Vehicle** and your vehicle is ready to drive! ❤️
 
 ## Requirements
 
@@ -27,4 +27,8 @@ No manual component setup required. Just click Setup Vehicle and your vehicle is
 5. Click **Save As** to save your configuration.
 6. Click **Setup Vehicle** to configure your vehicle.
 
-![LLamatek Universal Vehicle Controller Setup](Images/SetupWindow.png)
+<div align="center">
+  <p style="margin: 50px 0;">
+    <img src="Images/SetupWindow.png" width="800" alt="LLamatek Universal Vehicle Controller Setup">
+  </p>
+</div>
