@@ -29,6 +29,6 @@ No manual component setup required. Just click **Setup Vehicle** and your vehicl
 
 <div align="center">
   <p style="margin: 50px 0;">
-    <img src="Images/SetupWindow.png" style="width: 100%; max-width: 600px;" alt="LLamatek Universal Vehicle Controller Setup">
+    <img src="Images/SetupWindow.png" style="width: 100%; max-width: 300px;" alt="LLamatek Universal Vehicle Controller Setup">
   </p>
 </div>
