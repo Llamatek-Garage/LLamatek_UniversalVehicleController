@@ -2,7 +2,7 @@
 
 Auto-setup integration for LLamatek vehicles with Universal Vehicle Controller.
 
-## What It Does
+### What It Does
 
 Automatically assigns the required components and configures your entire LLamatek vehicle to work with Universal Vehicle Controller.
 
