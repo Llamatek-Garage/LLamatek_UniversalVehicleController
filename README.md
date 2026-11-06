@@ -36,5 +36,5 @@ No manual component setup required. Just click **Setup Vehicle** and your vehicl
   <img src="Images/SetupWindow.png" width="600" alt="LLamatek Universal Vehicle Controller Setup">
 </p>
 <p align="center">
-  <img src="LLamatek_UniversalVehicleController_Image1.png" width="100%" alt="LLamatek Garage">
+  <img src="Images/LLamatek_UniversalVehicleController_Image1.png" width="100%" alt="LLamatek Universal Vehicle Controller Setup">
 </p>
